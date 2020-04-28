@@ -1,0 +1,7 @@
+my_data = ("hi", "hello", "bye")
+
+print(my_data)          # displaying all elements
+
+print(my_data[0])       # accessing first element
+
+print(my_data[2])       # accessing third element
